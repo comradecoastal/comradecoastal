@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### Konstantin Kartashov 🌚
+#### MIPT Applied mathematics 👨🏻‍💻 and physics ⚛️ student
+
+- 💬 [VK](vk.com/comradecoastal)
+- 💌 [Telegram](https://t.me/comradecoastal)
 <!--
 **comradecoastal/comradecoastal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
